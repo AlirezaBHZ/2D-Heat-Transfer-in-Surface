@@ -1,5 +1,5 @@
 # ♨ 2D Heat Transfer in a Surface Domain (Gauss-Seidel and ADI method) ♨
-🟢 Python script to solve the 2D heat equation and gain temperature distribution contours, using Gauss-Seidel and ADI (Alternating-direction implicit) method .  
+🟢 Python script to solve the 2D heat equation and gain temperature distribution contours, using Gauss-Seidel and ADI (Alternating-direction implicit) method.  
 🟢 This solution is based on finite difference method.  
 
   
