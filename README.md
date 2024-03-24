@@ -13,6 +13,8 @@
 `T[:, -1]`: Temperature on right  
 `T[0, :]`: Temperature on top  
 `T[-1, :]`: Temperature on bottom  
-    
+
+**The default tolerance is set to 1e-05.**  
+
 ## 🤖 Usage  
 Just replace the existing values of input parameters with your desired values and run the code.
